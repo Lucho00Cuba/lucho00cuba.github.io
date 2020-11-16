@@ -15,7 +15,7 @@ _Nuestro segundo proyecto en explicar poco a poco como se basa y como montar ser
 
 ![Sysadmin](https://www.hostgator.mx/blog/wp-content/uploads/2017/07/SysAdmin_Blog.jpg)
 
-_El tercer proyecto y el ultimo que tenemos hasta ahora en aprender y combinar conociminetos en los dos anteriores protyectos, como herramienta de hypervisor estaremos utilizando Proxmox-VE._
+_El tercer proyecto y el ultimo que tenemos hasta ahora en aprender y combinar conociminetos en los dos anteriores proyectos, como herramienta de hypervisor estaremos utilizando Proxmox-VE._
 
 ![Proxmox-VE](https://www.unixmen.com/wp-content/uploads/2015/07/Proxmox.png)
 
