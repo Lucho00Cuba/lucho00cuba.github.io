@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre Mi
 permalink: /about/
 ---
-
-### Sobre Mi
 
 **_Joven Aficionado a la tecnologia_**
 
