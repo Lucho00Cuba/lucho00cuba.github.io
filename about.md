@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-**Sysadmin Jr & DevOps Jr**
-
-**_Linux Cuba_**
-
 ### Sobre Mi
 
 **_Joven Aficionado a la tecnologia_**
+
+**Sysadmin Jr & DevOps Jr**
+
+**_Linux Cuba_**
 
 ### Contact me
 
