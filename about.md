@@ -15,5 +15,3 @@ permalink: /about/
 ### Contact me
 
 [E-mail](mailto:lomv0209@gmail.com)
-
-![Octocat](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/images/octocat.png)
