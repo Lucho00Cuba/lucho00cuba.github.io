@@ -19,4 +19,4 @@ _El tercer proyecto y el ultimo que tenemos hasta ahora en aprender y combinar c
 
 ![Proxmox-VE](https://www.unixmen.com/wp-content/uploads/2015/07/Proxmox.png)
 
-**Autor** : _Linux_Cuba_
+*Autor* : _Lucho_
