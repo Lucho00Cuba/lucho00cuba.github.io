@@ -19,3 +19,5 @@ _Nuestro segundo proyecto en explicar poco a poco como se basa y como montar ser
 _El tercer proyecto y el ultimo que tenemos hasta ahora en aprender y combinar conociminetos en los dos anteriores proyectos, como herramienta de hypervisor estaremos utilizando Proxmox-VE._
 
 ![Proxmox-VE](/assets/img/sample/Proxmox.png)
+
+_Hasta la proxima..._

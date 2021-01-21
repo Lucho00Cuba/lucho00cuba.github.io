@@ -2,8 +2,8 @@
 layout: post
 title: Proxmox VE
 autor: Lucho
-categories: [Proxmox]
-tags: [Servidor,Hypervisor]
+categories: []
+tags: [Servidor,Hypervisor,Proxmox]
 ---
 
 _Este post lo vamos a dedicar a un hipervisor Open Source pero muy recomendado por muchos. Exacto hablamos de Proxmox-VE, entorno de virtualizacion de servidores. Esta montado sobre una distro GNU/Linux muy conocido que es Debian con una modificacion del Kernel RHEL._
@@ -19,3 +19,5 @@ _Proxmox VE es el hipervisor que estaremos utilizando en el Proyecto casero de L
 * [Proyecto Oficial](https://lucho00cuba.github.io/Proxmox)
 
 _Proyecto el cual es siguientes posts estaremos viendo mas detalles con tutoriales, aunque antes un poco de teoria para entender_
+
+_Hasta la proxima..._
