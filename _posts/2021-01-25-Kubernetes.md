@@ -70,25 +70,25 @@ mkctl get namespace
 
 _Ver los namespaces por defecto_
 
-![Vns](../img/k8s/ns_default.PNG)
+![Vns](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/ns_default.PNG)
 
 _Creando namespaces_
 
-![Cns](../img/k8s/ns_create.PNG)
+![Cns](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/ns_create.PNG)
 
 _Usando YAML_
 
-![CYns](../img/k8s/yns_create.PNG)
+![CYns](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/yns_create.PNG)
 
 _Eliminar namespaces_
 
-![Dns](../img/k8s/ns_delete.PNG)
+![Dns](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/ns_delete.PNG)
 
 ## Pods
 
 _Crear un pod_
 
-![CreatePod](../img/k8s/pod_create.PNG)
+![CreatePod](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/pod_create.PNG)
 
 _Nota: Para ver mas informacion sobre el Pod_
 ```shell
@@ -97,7 +97,7 @@ mkctl describe pod wildfly
 
 _Acceso a un Pod_
 
-![IntroPod](../img/k8s/pod_intro.PNG)
+![IntroPod](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/pod_intro.PNG)
 
 _Ver logs de de un  pods_
 
@@ -128,15 +128,15 @@ mkctl logs -f wildfly
 
 _Crear Deployment_
 
-![D_Create](../img/k8s/deploy_create.PNG)
+![D_Create](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/deploy_create.PNG)
 
 _Al aplicar el despliegue se nos crea el pod que declaramos en el archivo yaml_
 
-![D_Pod](../img/k8s/deploy_pod.PNG)
+![D_Pod](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/deploy_pod.PNG)
 
 _Eliminar Deployment_
 
-![D_Delete](../img/k8s/deploy_delete.PNG)
+![D_Delete](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/deploy_delete.PNG)
 
 ## Services
 
@@ -144,8 +144,8 @@ _Crear un Service_
 
 - Crear un Deployment
 
-![D-W-M](../img/k8s/d_w_m.PNG)
-![Deploy](../img/k8s/deploy_w_m.PNG)
-![Service](../img/k8s/service.PNG)
+![D-W-M](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/d_w_m.PNG)
+![Deploy](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/deploy_w_m.PNG)
+![Service](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/service.PNG)
 
 _Hasta la proxima..._
