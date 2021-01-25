@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kukernetes
+title: Kubernetes
 autor: Lucho
 categories: [Virtualizacion]
 tags: [Contenedores]
