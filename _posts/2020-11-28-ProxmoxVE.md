@@ -2,7 +2,7 @@
 layout: post
 title: Proxmox VE
 autor: Lucho
-categories: []
+categories: [Servidores]
 tags: [Servidor,Hypervisor,Proxmox]
 ---
 
