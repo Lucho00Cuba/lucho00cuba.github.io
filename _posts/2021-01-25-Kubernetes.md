@@ -6,13 +6,13 @@ categories:
 feature_image: "https://www.wecode-inc.com/img/kubernetes-developers-banner.png"
 ---
 
+![K8S](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png)
+
 _Hola amigooos. En este post estaremos hablando un poquito de kubernetes._
 
 _¿Que es Kubernetes?_
 
 _Kubernetes (referido en inglés comúnmente como “K8s”) es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores_
-
-![K8S](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png)
 
 [Wiki](https://es.wikipedia.org/wiki/Kubernetes)
 
