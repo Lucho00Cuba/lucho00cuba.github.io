@@ -1,8 +1,6 @@
 ---
 title: About Me
-feature_text: |
-  About Me
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://image.freepik.com/vector-gratis/encabezado-tipografico-sysadmin-personas-que-trabajan-computadora-que-realizan-trabajos-tecnicos-servidor_277904-8862.jpg"
 excerpt: "About Me"
 aside: true
 ---

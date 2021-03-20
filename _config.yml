@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: es-ES # Set the site language
 title: "Just Me" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/redhat-brands.svg"  #"/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Mi Pequeño Blog" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lucho00cuba.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
