@@ -3,7 +3,7 @@ title: Proxmox VE
 autor: Lucho
 categories: 
 - Servidores
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://open-ti.com.pe/img/proxmox.png"
 ---
 
 _Este post lo vamos a dedicar a un hipervisor Open Source pero muy recomendado por muchos. Exacto hablamos de Proxmox-VE, entorno de virtualizacion de servidores. Esta montado sobre una distro GNU/Linux muy conocido que es Debian con una modificacion del Kernel RHEL._

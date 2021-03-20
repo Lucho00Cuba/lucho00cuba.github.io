@@ -3,7 +3,7 @@ title: Kubernetes
 autor: Lucho
 categories:
 - Virtualizacion
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.linuxworldindia.org/images/Kubernetes-Banner.png"
 ---
 
 _Hola amigooos. En este post estaremos hablando un poquito de kubernetes._

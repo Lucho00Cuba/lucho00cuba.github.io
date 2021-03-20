@@ -3,7 +3,7 @@ title: Gnome-Boxes
 autor: Lucho
 categories:
 - Virtualizacion
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.muycomputer.com/wp-content/uploads/2015/08/GNOME-cumple-18-a%C3%B1os.png"
 ---
 
 # Gnome Boxes
