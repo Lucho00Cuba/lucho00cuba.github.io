@@ -66,8 +66,6 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
     feature_image: "https://www.pedrodelanube.com/wp-content/uploads/2018/04/blogging-stats-featured.png"
 
 # 6. Jekyll collections settings
@@ -76,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/default-image.png" # Default image for sharing
   -
     scope:
       path: ""
@@ -94,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: es-ES # Set the site language
 title: "Just Me" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/redhat-brands.svg"  #"/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg"  #"/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Mi Pequeño Blog" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lucho00cuba.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
