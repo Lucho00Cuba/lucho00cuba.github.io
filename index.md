@@ -1,6 +1,6 @@
 ---
 title: Home
-feature_image: "https://image.freepik.com/vector-gratis/palabra-pirateada-efecto-falla_225004-655.jpg"
+feature_image: "https://www.hostgator.mx/blog/wp-content/uploads/2017/07/SysAdmin_Blog-750x300.jpg"
 excerpt: "Mi Pequeño Blog"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: About Me
-feature_image: "https://image.freepik.com/vector-gratis/encabezado-tipografico-sysadmin-personas-que-trabajan-computadora-que-realizan-trabajos-tecnicos-servidor_277904-8862.jpg"
+feature_image: "https://image.freepik.com/vector-gratis/palabra-pirateada-efecto-falla_225004-655.jpg"
 excerpt: "About Me"
 aside: true
 ---
