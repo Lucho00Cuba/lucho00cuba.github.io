@@ -8,4 +8,18 @@ _Sitio Web enfocado en temas de IT. Uno de los temas que estaremos viendo es vit
 
 ![Banner](https://cdn.hipwallpaper.com/i/50/91/htRuse.jpg)
 
+# Recursos
+
+## Pentesting
+
+![Pentest](./img/pentesting.png)
+
+_Seccion dedicada recursos sobre esta area_
+
+* [Reconocimiento](./_post/2021-03-21-Reconocimiento.md)
+* Enumeracion
+* Explotacion 
+* Post-Explotacion
+* Reporte
+
 _Si quieres hablar de un tema especifico hazmelo saber! :)._

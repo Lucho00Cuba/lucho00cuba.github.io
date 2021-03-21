@@ -6,7 +6,7 @@ categories:
 feature_image: "https://i.imgur.com/jxdsE5t.png"
 ---
 
-![Maltego](https://www.maltego.com/img/maltego-logo/Maltego-Logo-Horizontal-White.png)
+![Maltego](https://2.bp.blogspot.com/-NUrfHWwn9sM/V8BXnm7SnuI/AAAAAAAAGDM/dWOMtdsKxAgn4LcaWRNKCxpUl5b1-7y5QCLcB/s1600/LHF.png)
 
 _Hola, en este Post estraremos hablando de la primera fase de una prueba de penetracion._
 _Estaremos viendo como efectuar un reconocimiento y diferentes herramintas para recopilar informacion._
