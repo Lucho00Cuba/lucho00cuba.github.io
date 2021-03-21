@@ -10,16 +10,26 @@ _Sitio Web enfocado en temas de IT. Uno de los temas que estaremos viendo es vit
 
 # Recursos
 
-## Pentesting
+<img src ="./img/pentesting.png" width=500 height=100>
 
-![Pentest](./img/pentesting.png)
-
-_Seccion dedicada recursos sobre esta area_
+<br>
 
 * [Reconocimiento](./_post/2021-03-21-Reconocimiento.md)
 * Enumeracion
 * Explotacion 
 * Post-Explotacion
 * Reporte
+
+<br>
+
+<img src ="./img/sysadmin.png" width=500 height=100>
+
+<br>
+
+* Linux
+* Windows
+* Servidores
+
+<br>
 
 _Si quieres hablar de un tema especifico hazmelo saber! :)._
