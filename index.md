@@ -12,8 +12,6 @@ _Sitio Web enfocado en temas de IT. Uno de los temas que estaremos viendo es vit
 
 <img src ="./img/pentesting.png" width=500 height=100>
 
-<br>
-
 * [Reconocimiento](./_post/2021-03-21-Reconocimiento.md)
 * Enumeracion
 * Explotacion 
@@ -23,8 +21,6 @@ _Sitio Web enfocado en temas de IT. Uno de los temas que estaremos viendo es vit
 <br>
 
 <img src ="./img/sysadmin.png" width=500 height=100>
-
-<br>
 
 * Linux
 * Windows
