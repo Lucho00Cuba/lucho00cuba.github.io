@@ -1,12 +1,15 @@
 ---
-title: Kubernetes
-autor: Lucho
-categories:
-- Virtualizacion
-feature_image: "https://www.wecode-inc.com/img/kubernetes-developers-banner.png"
+title: Conociendo Kubernetes
+layout: post
+post-image: "https://albertoroura.com/wp-content/uploads/2021/01/1_WCsqMt85nMP0DvYv0JnkOA.png"
+description: Aprendiendo Kubernetes.
+tags:
+- post
+- k8s
+- microservices
 ---
 
-![K8S](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png)
+<!--<img src="https://www.wecode-inc.com/img/kubernetes-developers-banner.png"/>-->
 
 _Hola amigooos. En este post estaremos hablando un poquito de kubernetes._
 
@@ -35,7 +38,7 @@ _Conceptos Basicos_
 * _Ingress_
     * _Objeto que nos va a permitir controlar muchos aspectos de nuestra red en nuestro cluster de Kubernetes_
 
-![K8S](https://blog.ichasco.com/wp-content/uploads/2019/06/NGINX-Ingress-Controller-4-services_social.png)
+<center><img src="https://blog.ichasco.com/wp-content/uploads/2019/06/NGINX-Ingress-Controller-4-services_social.png"/></center>
 
 # Tutorial
 
@@ -145,7 +148,9 @@ _Crear un Service_
 - Crear un Deployment
 
 ![D-W-M](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/d_w_m.PNG)
+
 ![Deploy](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/deploy_w_m.PNG)
+
 ![Service](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/img/k8s/service.PNG)
 
 _Hasta la proxima..._
