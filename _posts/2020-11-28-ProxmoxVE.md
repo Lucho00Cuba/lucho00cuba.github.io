@@ -1,7 +1,7 @@
 ---
 title: Proxmox VE
 layout: post
-post-image: "https://raw.githubusercontent.com/Lucho00Cuba/website/main/assets/images/Proxmox-VE-5.webp"
+post-image: "https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/Proxmox-VE-5.webp"
 description: Conociendo Proxmox VE.
 tags:
 - post
