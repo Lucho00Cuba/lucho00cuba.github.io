@@ -12,7 +12,7 @@ tags:
 
 ## Comandos Basicos
 
-**.** = Directorio Actual
+* **.** = Directorio Actual
 ```shell
 lucho@linux:~$ ls .
 Descargas  Documentos  Escritorio  Imágenes  Música  Plantillas  Público  snap test Vídeos
