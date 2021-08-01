@@ -12,7 +12,7 @@ tags:
 
 ## Comandos Basicos
 
-* **.** = Directorio Actual
+***.*** = Directorio Actual
 ```shell
 lucho@linux:~$ ls .
 Descargas  Documentos  Escritorio  Imágenes  Música  Plantillas  Público  snap test Vídeos
@@ -43,6 +43,7 @@ lucho@linux:~$
 ## Comandos Basicos de Linux
 
 * pwd 
+
     * Directorio de Trabajo
         ```shell
         lucho@linux:~$ pwd
@@ -50,6 +51,7 @@ lucho@linux:~$
         lucho@linux:~$  
         ```
 * cat
+
     * Ver contenido de archivos
         ```shell
         lucho@linux:~$ cat archivo.txt
@@ -57,6 +59,7 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 * ls
+
     * Listar directorios
         ```shell
         lucho@linux:~$ ls
@@ -64,12 +67,14 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 * cd
+
     * Moverse por los directorios
         ```shell
         lucho@linux:~$ cd Escritorio
         lucho@linux:~/Escritorio$
         ```
 * mkdir
+
     * Creacion de directorios
         ```shell
         lucho@linux:~$ mkdir test
@@ -78,6 +83,7 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 * touch
+
     * Creacion de archivos
         ```shell
         lucho@linux:~$ touch test.txt
@@ -85,7 +91,8 @@ lucho@linux:~$
         Descargas  Documentos  Escritorio  Imágenes  Música  Plantillas  Público  snap test.txt Vídeos
         lucho@linux:~$
         ```
-* rm 
+* rm
+
     * Eliminar archivos y directorios
         ```shell
         lucho@linux:~$ rm test.txt
@@ -94,6 +101,7 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 * rmdir
+
     * Eliminar directorios o subdirectorios **vacios**
         ```shell
         lucho@linux:~$ rmdir test
@@ -102,6 +110,7 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 * history
+
     * Ver historial de comandos introducidos
         ```shell
         lucho@linux:~$ history
@@ -118,6 +127,7 @@ lucho@linux:~$
         ```
 
 * echo
+
     * Imprimir en consola
         ```shell
         lucho@linux:~$ echo "Hola Mundo"
@@ -125,7 +135,8 @@ lucho@linux:~$
         lucho@linux:~$
         ```
 
-* mv 
+* mv
+
     * Cambiar directorios, archivos de ruta o nombre
         ```shell
         lucho@linux:~$ mv archivo.txt ./Escritorio
@@ -133,6 +144,7 @@ lucho@linux:~$
         ```
 
 * cp 
+
     * Copiar directorios y archivos
         ```shell
         lucho@linux:~$ cp archivo.txt ./Documentos
