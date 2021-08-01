@@ -1,10 +1,16 @@
 ---
-layout: page
-title: Linux
+title: Linux Basico
+layout: post
+post-image: "https://logos-marcas.com/wp-content/uploads/2020/09/Linux-Emblema.png"
+description: Proyecto Red Cloud.
+tags:
+- post
+- linux
+- tutorial
 ---
 
 
-## Conceptos Basicos
+## Comandos Basicos
 
 **.** = Directorio Actual
 ```shell
