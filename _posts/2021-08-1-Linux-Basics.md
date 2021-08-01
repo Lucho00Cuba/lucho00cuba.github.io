@@ -9,6 +9,15 @@ tags:
 - tutorial
 ---
 
+_¿Qué es Linux?_
+
+_Linux es el nombre que reciben una serie de sistemas operativos de tipo Unix bajo la licencia GNU GPL (General Public License o Licencia Pública General de GNU) que son su mayoría gratuitos y con todo lo necesario para hacer funcionar un PC, con la peculiaridad de que podemos instalar un sistema muy ligero e ir añadiendo todo lo necesario posteriormente o según lo vayamos necesitando._
+
+_¿Para qué sirve Linux?_
+
+_Linux sirve para hacer funcionar todo el hardware de un PC, ya que un ordenador no puede funcionar sin un sistema operativo y Linux es un sistema operativo gratuito. Linux está en muchos de los ordenadores que se venden sin sistema operativo, pero esto no es legal en España ya que un PC sin sistema operativo no es un PC funcional, muchos fabricantes optan por añadir una versión o distro de Linux._
+
+_Este sistema operativo también es conocido por controlar superordenadores o servidores que es donde en realidad Linux toma importancia. La mayoría de los supercomputadores más importantes del mundo usan algún sistema GNU/Linux, por lo que también sirve para controlar superordenadores con tareas específicas, gracias a su capacidad de personalización._
 
 ## Comandos Basicos
 
@@ -136,7 +145,7 @@ lucho@linux:~$
         ```
 
 * mv
-
+ 
     * Cambiar directorios, archivos de ruta o nombre
         ```shell
         lucho@linux:~$ mv archivo.txt ./Escritorio
@@ -144,7 +153,6 @@ lucho@linux:~$
         ```
 
 * cp 
-
     * Copiar directorios y archivos
         ```shell
         lucho@linux:~$ cp archivo.txt ./Documentos
