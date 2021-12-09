@@ -60,9 +60,9 @@ rke up
 
 <center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rke.png"/>
-
+<br>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkei.png"/>
-
+<br>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkeup.png"/>
 </center>
 
@@ -81,7 +81,7 @@ Para el correcto despliegue de muchas aplicaciones requerimos de una identidad c
 
 <center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
-
+<br>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
 </center>
 
@@ -100,6 +100,6 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 
 <center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
-
+<br>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
 </center>
