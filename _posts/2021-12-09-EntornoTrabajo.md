@@ -107,7 +107,7 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 
 
 <center>
-    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
+    <img width="550" heigth="200" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
     <img width="550" heigth="200" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
 </center>
 <br>
