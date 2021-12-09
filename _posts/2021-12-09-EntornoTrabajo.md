@@ -1,5 +1,5 @@
 ---
-title: Metasploitable 2
+title: Rancher 2.5
 layout: post
 post-image: "https://the.binbashtheory.com/rke-logo.png"
 description: Entorno de kubernetes con Rancher 2.5
