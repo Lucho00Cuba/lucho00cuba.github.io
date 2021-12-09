@@ -64,6 +64,7 @@ rke up
     <br>
     <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkeup.png"/>
 </center>
+<br>
 
 Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.yml"* con el cual nos conectaremos al cluster con el cliente _kubectl_
 
@@ -71,8 +72,9 @@ Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.
 alias k="kubectl --kubeconfig kube_config_cluster.yml"
 ```
 <center>
-    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
+    <img width="700" height="100" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
 </center>
+<br>
 
 #### Cert-Manager
 
@@ -82,6 +84,7 @@ Para el correcto despliegue de muchas aplicaciones requerimos de una identidad c
     <img height="550" width="580" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
     <img height="400" width="700" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
 </center>
+<br>
 
 #### Aplicaciones
 
@@ -89,6 +92,10 @@ Para esta pequeña demo yo estare utlizando varias aplicaciones como:
 
 - MetalLB (Balanceador de Carga)
 - Traefik (Ingress Controller)
+
+```note
+Estos servicios ya los tengo previamente desplegados
+```
 
 <br>
 
@@ -101,8 +108,9 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 
 <center>
     <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
-    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
+    <img width="550" heigth="200" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
 </center>
+<br>
 
 Por ultimo afectamos el /etc/hosts para poder llegar a nuestro dominio de "rancher.k8s.lab"
 
