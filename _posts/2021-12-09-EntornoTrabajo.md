@@ -1,7 +1,7 @@
 ---
 title: Rancher 2.5
 layout: post
-post-image: "https://the.binbashtheory.com/rke-logo.png"
+post-image: "https://www.rancher.co.jp/img/rke-logo.svg"
 description: Entorno de kubernetes con Rancher 2.5
 tags:
 - post
@@ -59,11 +59,11 @@ rke up
 ```
 
 <center>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rke.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rke.png"/>
 <br>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkei.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkei.png"/>
 <br>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkeup.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkeup.png"/>
 </center>
 
 Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.yml"* con el cual nos conectaremos al cluster con el cliente _kubectl_
@@ -72,7 +72,7 @@ Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.
 alias k="kubectl --kubeconfig kube_config_cluster.yml"
 ```
 <center>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
 </center>
 
 #### Cert-Manager
@@ -80,9 +80,9 @@ alias k="kubectl --kubeconfig kube_config_cluster.yml"
 Para el correcto despliegue de muchas aplicaciones requerimos de una identidad certificadora dentro del clúster. Dicha identidad certificadora es “cert-manager” la cual se encarga de emitir, revocar certificados de seguridad, etc.... Para el despliegue de dicho aplicativo, se crearon dos manifiestos en YML para su correcto despliegue
 
 <center>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
 <br>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
 </center>
 
 #### Aplicaciones
@@ -99,7 +99,7 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 - [Docs Rancher 2](https://rancher.com/docs/rancher/v2.5/en/)
 
 <center>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
 <br>
-<img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
+<img heigth=50% width=80% src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
 </center>
