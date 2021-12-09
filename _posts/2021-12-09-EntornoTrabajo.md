@@ -71,9 +71,7 @@ Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.
 alias k="kubectl --kubeconfig kube_config_cluster.yml"
 ```
 <center>
-
-![kci](https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png)
-
+    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
 </center>
 
 #### Cert-Manager
@@ -82,7 +80,6 @@ Para el correcto despliegue de muchas aplicaciones requerimos de una identidad c
 
 <center>
     <img height="550" width="580" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
-    <br>
     <img height="400" width="700" src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
 </center>
 
@@ -92,6 +89,8 @@ Para esta pequeña demo yo estare utlizando varias aplicaciones como:
 
 - MetalLB (Balanceador de Carga)
 - Traefik (Ingress Controller)
+
+<br>
 
 #### Rancher 2.5
 
@@ -103,4 +102,12 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 <center>
     <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
     <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
+</center>
+
+Por ultimo afectamos el /etc/hosts para poder llegar a nuestro dominio de "rancher.k8s.lab"
+
+<center>
+    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher3.png"/>
+    <br>
+    <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher4.png"/>
 </center>
