@@ -24,9 +24,11 @@ Rancher fue construido originalmente para trabajar con múltiples orquestadores.
 
 Rancher Kubernetes Engine (RKE) es una distribución de Kubernetes certificada por CNCF que se ejecuta completamente dentro de contenedores Docker. Funciona en servidores bare-metal y virtualizados. RKE resuelve el problema de la complejidad de la instalación, un problema común en la comunidad de Kubernetes. Con RKE, la instalación y operación de Kubernetes se simplifica y se automatiza fácilmente, y es completamente independiente del sistema operativo y la plataforma que está ejecutando. Siempre que pueda ejecutar una versión compatible de Docker, puede implementar y ejecutar Kubernetes con RKE
 
+<center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/arquitecture.png"/>
 <br>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/workloads.png"/>
+</center>
 
 ## Pasando a la practica...
 
@@ -55,27 +57,33 @@ mv rke_linux-amd64 /usr/bin/rke
 rke config --name cluster.yml # Configurar el manifiesto de acuerdo a sus necesidades
 rke up
 ```
+
+<center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rke.png"/>
 
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkei.png"/>
 
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rkeup.png"/>
+</center>
 
 Al terminar el despliegue de _RKE_ se nos crea un fichero *"kube_config_cluster.yml"* con el cual nos conectaremos al cluster con el cliente _kubectl_
 
 ```shell
 alias k="kubectl --kubeconfig kube_config_cluster.yml"
 ```
-
+<center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/kci.png"/>
+</center>
 
 #### Cert-Manager
 
 Para el correcto despliegue de muchas aplicaciones requerimos de una identidad certificadora dentro del clúster. Dicha identidad certificadora es “cert-manager” la cual se encarga de emitir, revocar certificados de seguridad, etc.... Para el despliegue de dicho aplicativo, se crearon dos manifiestos en YML para su correcto despliegue
 
+<center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager.png"/>
 
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/cert-manager2.png"/>
+</center>
 
 #### Aplicaciones
 
@@ -90,6 +98,8 @@ En la documentacion oficial de Rancher se recomienda el despliegue con helm
 
 - [Docs Rancher 2](https://rancher.com/docs/rancher/v2.5/en/)
 
+<center>
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher.png"/>
 
 <img src="https://raw.githubusercontent.com/Lucho00Cuba/lucho00cuba.github.io/main/assets/images/env-work/rancher2.png"/>
+</center>
