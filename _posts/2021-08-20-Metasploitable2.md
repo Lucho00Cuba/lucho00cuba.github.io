@@ -1,7 +1,7 @@
 ---
 title: Metasploitable 2
 layout: post
-post-image: "https://logos-marcas.com/wp-content/uploads/2020/09/Linux-Emblema.png"
+post-image: "https://raw.githubusercontent.com/estebanrfp/static-assets/master/images/articles/5de3a66691c120787e82a255/large@2x.jpg"
 description: Vulnerando Metasploitable 2
 tags:
 - post
