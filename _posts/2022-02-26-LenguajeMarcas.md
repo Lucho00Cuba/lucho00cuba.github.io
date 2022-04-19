@@ -152,6 +152,8 @@ _Para definir un DTD internamente en el prólogo del propio XML,  estableceríam
 </alumnos>
 ```
 
+<br>
+
 #### Externo
 
 _Para llamar un DTD externo hay que hacer una llamada debajo del prólogo del DTD, con el "atributo" SYSTEM y ponemos la ruta entre comillas ""._ 
@@ -211,6 +213,24 @@ _Hay veces que debemos usar modificadores, como el símbolo + (indica que habrí
 <!ELEMENT etiquetaNombreInformacion1 (#PCDATA)> 
 <!ELEMENT etiquetaNombreInformacion2 (#PCDATA)> 
 ```
+
+### DTD - Atributos
+
+_Tipos de atributos serian:_
+
+    CDATA -> texto
+
+    ID -> Identificador unico
+
+_Valores de atributos_
+
+    valor predeterminado <!ATTLIST alumno dni CDATA "4545K">
+
+    valor fijo <!ATTLIST alumno dni CDATA #FIXED "4545K">
+
+    valor opcional <!ATTLIST alumno dni CDATA #IMPLIED>
+
+    valor requerido <!ATTLIST alumno dni CDATA #REQUIRED>
 
 ### DTD - Modificadores
 
