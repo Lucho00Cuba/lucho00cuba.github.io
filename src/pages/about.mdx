@@ -1,0 +1,17 @@
+---
+layout: '@/layouts/PageLayout.astro'
+asideCards:
+  - CardInfo
+  - CardMarkdown:
+      title: Tech Stack
+      content: |
+        - Framework: Astro
+        - Theme: Antares
+title: 'About'
+titleShow: false
+---
+
+import { readFileSync, readFileWeb } from '@/utils'
+import Markdown from '@/components/atomic/Markdown.astro'
+
+<Markdown render set:html={await readFileWeb('https://raw.githubusercontent.com/lucho00cuba/lucho00cuba/main/README.md')}/>

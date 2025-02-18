@@ -1,0 +1,23 @@
+---
+import PageLayout from "@/layouts/PageLayout.astro";
+import { NAV_ITEMS } from "@/config";
+const items = NAV_ITEMS.map(item=>[item,...item.children||[]]).flat()
+---
+
+<PageLayout title="Error: 404" titleIconOff asideCards={['CardInfo','CardCategroies','CardTagCloud','CardToolbar']}>
+  <div data-pagefind-ignore>
+    <h1 class="font-700 text-8xl my16">Oops!</h1>
+    <div class="lh-loose">
+      <h2 class="text-xl">It seems there is no page you're looking for :(</h2>
+      <h2 class="font-600 my4">Code: 404 PAGE_NOT_FOUND</h2>
+      <h2>Go back to the <a href="javascript:window.history.back()">previous page</a></h2>
+      <h2>Try <a href="/search">searching</a></h2>
+      <h2>Or here are some useful links:</h2>
+      <ul class="list-circle-inside my4">
+        {items.map(item => (
+          <li>{item.text} - <a href={item.href}>{item.href}</a></li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</PageLayout>
