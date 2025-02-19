@@ -2,6 +2,8 @@
 title: 'Markdown Style Guide'
 titleIcon: 'asset:markdown'
 titleColor: '#20B2AA,#aaa'
+publishDate: '2025-02-18'
+updatedDate: '2025-02-18'
 tags: [ 'Demo' ]
 categories: [ 'Astro', 'Demo' ]
 description: |

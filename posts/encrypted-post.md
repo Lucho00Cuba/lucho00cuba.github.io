@@ -2,6 +2,8 @@
 title: 'Encrypted post'
 tags: [ 'Demo', 'Encrypted' ]
 categories: [ 'Astro', 'Demo' ]
+publishDate: '2025-02-18'
+updatedDate: '2025-02-18'
 password: '123456'
 encrypt:
   description: |

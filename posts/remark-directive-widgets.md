@@ -1,5 +1,7 @@
 ---
 title: remark-directive-widgets
+publishDate: '2025-02-18'
+updatedDate: '2025-02-18'
 description: |
   remark-directive-widgets is a remark plugin implemented by this theme itself, used to create custom components based on the remark-directive plugin syntax.  
 ---
