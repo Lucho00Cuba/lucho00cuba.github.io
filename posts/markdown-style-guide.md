@@ -6,7 +6,6 @@ tags: [ 'Demo' ]
 categories: [ 'Astro', 'Demo' ]
 description: |
   Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro. 
-top: 1
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
