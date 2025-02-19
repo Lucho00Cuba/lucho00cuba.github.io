@@ -25,7 +25,7 @@ const DEFAULT_FRONTMATTER = {
 }
 const SIDEBAR_SETTINGS = {
   name: "JustMe",
-  avatar: '/icon.png',
+  avatar: '/profile.png',
 }
 const ASIDE_CARDS = {
   info: {
