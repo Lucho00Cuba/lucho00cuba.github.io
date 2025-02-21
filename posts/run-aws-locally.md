@@ -2,6 +2,8 @@
 title: "Run AWS Locally"
 titleIcon: https://raw.githubusercontent.com/localstack/branding/refs/heads/main/Web%20Logos%20(RGB)/SVG/Icon/localstack-logo-icon-color.svg
 titleColor: "#0998DF"
+publishDate: '2025-02-19'
+updatedDate: '2025-02-19'
 tags: ["AWS", "Localstack", "Tutorial"]
 categories: ["Tutorial", "AWS"]
 description: |
