@@ -1,0 +1,25 @@
+---
+title: 'The Game of Live in Go'
+# titleIcon: 'https://cubexit.com/wp-content/uploads/2021/12/go_logo.png'
+# titleIcon: 'https://yanbin.blog/wp-content/uploads/2021/08/golang-logo.png'
+titleIcon: 'https://elest.io/images/softwares/146/logo.png'
+titleColor: '#0998DF'
+publishDate: '2025-02-26'
+updatedDate: '2025-02-26'
+tags: [ 'Go', 'Programming' ]
+categories: [ 'Programming', 'Investigation' ]
+description: |
+    Implement Conway's "Game of Life" in Go, exploring how simple rules create complex patterns. Learn to build and run the simulation with concurrency features in Go.
+---
+
+import { readFileWeb } from '@/utils'
+import Markdown from '@/components/atomic/Markdown.astro'
+
+<Markdown render set:html={await readFileWeb('https://raw.githubusercontent.com/Lucho00Cuba/the-game-of-life/refs/heads/main/README.md')}/>
+
+## Download the code
+
+```bash
+git clone https://github.com/Lucho00Cuba/the-game-of-life.git
+cd the-game-of-life
+```
